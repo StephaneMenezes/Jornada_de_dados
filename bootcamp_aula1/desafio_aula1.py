@@ -18,3 +18,5 @@ print( f"O cálculo do KPI é calculado como: Salário Mensal R$ {salario_user} 
 print(f"Olá {nome_user}, o seu recebimento total será de R$ {valor_total:.2f} reais. Resumo: Salário Mensal R$ {salario_user} + Bônus recebido R$ {bonus_user}")
 
 #Desafio_Aula 1
+
+#Adicionando mais um comentário para fazer o commit
