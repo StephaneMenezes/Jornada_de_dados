@@ -92,3 +92,11 @@ elif "@" not in email or "." not in email :
 
 else: 
     print("Dados de usuários válidos, seja bem vindo!")
+
+#Estudando estruturas de repetiçao com while: 
+
+car = 1 
+
+while car <=5 :
+    print(f"Carro {car} está na corrida")
+    car += 1
